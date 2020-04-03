@@ -17,7 +17,21 @@ function App() {
     console.log("hide banner");
     return (<div>the banner is now hidden</div>);
   }
-
+  let a = true;
+  if (a == true){
+  }
+  let b = 123;
+  const c = "12344";
+  let d = "123244";
+  let d1 = "123244";
+  let d2 = "123244";
+  let d3 = "123244";
+  let d4 = "123244";
+  let d5 = "123244";
+  let d6 = "123244";
+  let d7 = "123244";
+  let d8 = "123244";
+  let d9 = "123244";
 
   let bgColor = "#fee429";
   let color = "#332526";
